@@ -1,13 +1,4 @@
 # GitProject
 
-<html>
- 
-<head>
-<tittle> GITHUB Project </tittle>  
-</head>
-
-<body>
-  <h1 color = "Blue" > Hello World !!! </h1>
-</body>
-
-</html>
+Hello Readers this project is regading the creation of GITHUB REPOSITORY. 
+Thanks.
